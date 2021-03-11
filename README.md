@@ -25,7 +25,9 @@ Desenvolvido com as tecnologias:
 
 <div id="">
 
-##
+# Modo de iniciar o Projeto
+
+- Utilize Yarn start
 </div>
 
 <div id="licence">
